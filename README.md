@@ -36,7 +36,7 @@ This project is beginner-friendly and perfect for showcasing **DOM manipulation,
 
 Example:
 
-![Chat UI Placeholder](https://via.placeholder.com/800x400?text=Chat+Application+Screenshot)
+![Home Page](https://raw.githubusercontent.com/Quickercode12/lets-chat/main/screenshot/Screenshot2025-12-17213728.png)
 
 ---
 
