@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.chat-window {
+  width: 400px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.chat-messages {
+  height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Common message */
+.message {
+  padding: 8px 12px;
+  margin: 6px 0;
+  max-width: 70%;
+  border-radius: 6px;
+}
+
+/* Sonia (left) */
+.sonia {
+  background: #e1f5fe;
+  align-self: flex-start;
+}
+
+/* Gautam (right) */
+.gautam {
+  background: #c8e6c9;
+  align-self: flex-end;
+  margin-left: auto;
+}
+
+.user-input {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.user-input input {
+  flex: 1;
+  padding: 6px;
+}
